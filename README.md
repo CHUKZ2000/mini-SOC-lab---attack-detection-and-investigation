@@ -101,6 +101,10 @@ Default access:
 ```bash
 https://10.1.1.1
 ```
+![SOC Lab Screenshot 02](screenshots/soc-lab-02.png)
+
+![SOC Lab Screenshot 03](screenshots/soc-lab-03.png)
+
 
 ## Virtual Machines
 
@@ -318,10 +322,6 @@ Suspicious activity was detected originating from an internal Parrot OS machine.
 ### Extracted Lab Screenshots
 
 ![SOC Lab Screenshot 01](screenshots/soc-lab-01.png)
-
-![SOC Lab Screenshot 02](screenshots/soc-lab-02.png)
-
-![SOC Lab Screenshot 03](screenshots/soc-lab-03.png)
 
 ![SOC Lab Screenshot 04](screenshots/soc-lab-04.png)
 
