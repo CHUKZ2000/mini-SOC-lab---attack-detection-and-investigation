@@ -121,6 +121,11 @@ Target system for attack simulation.
 - 4GB RAM
 - 60GB Storage
 
+![SOC Lab Screenshot 04](screenshots/soc-lab-04.png)
+
+![SOC Lab Screenshot 05](screenshots/soc-lab-05.png)
+  
+
 ### Rocky Linux
 
 Used as centralized logging server with rsyslog.
@@ -322,10 +327,6 @@ Suspicious activity was detected originating from an internal Parrot OS machine.
 ### Extracted Lab Screenshots
 
 ![SOC Lab Screenshot 01](screenshots/soc-lab-01.png)
-
-![SOC Lab Screenshot 04](screenshots/soc-lab-04.png)
-
-![SOC Lab Screenshot 05](screenshots/soc-lab-05.png)
 
 ![SOC Lab Screenshot 06](screenshots/soc-lab-06.png)
 
