@@ -69,6 +69,8 @@ Installed VMware Workstation to create and manage multiple virtual machines for 
 - Network simulation and security testing
 - Snapshot and recovery capability
 
+![SOC Lab Screenshot 01](screenshots/soc-lab-01.png)
+
 ### Step 2 - pfSense Configuration
 
 Configured pfSense as the firewall and router for the lab environment.
@@ -130,9 +132,13 @@ Target system for attack simulation.
 
 Used as centralized logging server with rsyslog.
 
+![SOC Lab Screenshot 07](screenshots/soc-lab-07.png)
+
 ### Parrot OS
 
 Used as attacker machine for penetration testing and attack simulation.
+
+![SOC Lab Screenshot 06](screenshots/soc-lab-06.png)
 
 ## rsyslog Installation & Configuration
 
@@ -195,6 +201,7 @@ Installed Splunk Enterprise on Windows 10 and Splunk Universal Forwarder on Rock
 ```bash
 http://localhost:8000
 ```
+![SOC Lab Screenshot 08](screenshots/soc-lab-08.png)
 
 ### Configuration Steps
 
@@ -328,14 +335,6 @@ Suspicious activity was detected originating from an internal Parrot OS machine.
 ## Screenshots
 
 ### Extracted Lab Screenshots
-
-![SOC Lab Screenshot 01](screenshots/soc-lab-01.png)
-
-![SOC Lab Screenshot 06](screenshots/soc-lab-06.png)
-
-![SOC Lab Screenshot 07](screenshots/soc-lab-07.png)
-
-![SOC Lab Screenshot 08](screenshots/soc-lab-08.png)
 
 ![SOC Lab Screenshot 12](screenshots/soc-lab-12.png)
 
