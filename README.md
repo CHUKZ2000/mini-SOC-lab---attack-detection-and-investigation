@@ -345,7 +345,17 @@ Suspicious activity was detected originating from an internal Parrot OS machine.
 ![SOC Lab Screenshot 15](screenshots/soc-lab-15.png)
 
 ## DashBoard
-![SOC Lab Screenshot 0](screenshots/soc-lab-01.png)
+![SOC Lab Screenshot 16](screenshots/soc-lab-16.png.png)
+
+![SOC Lab Screenshot 17](screenshots/soc-lab-17.png.png)
+
+![SOC Lab Screenshot 18](screenshots/soc-lab-18.png.png)
+
+![SOC Lab Screenshot 19](screenshots/soc-lab-19.png.png)
+
+![SOC Lab Screenshot 20](screenshots/soc-lab-20.png.png)
+
+![SOC Lab Screenshot 21](screenshots/soc-lab-21.png.png)
 
 ## Future Improvements
 
