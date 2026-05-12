@@ -214,12 +214,14 @@ Performed Nmap scans from Parrot OS.
 ```bash
 sudo nmap -sS <rocky-linux-ip>
 ```
+![SOC Lab Screenshot 09](screenshots/soc-lab-09.png)
 
 #### Aggressive Scan
 
 ```bash
 sudo nmap -A <rocky-linux-ip>
 ```
+![SOC Lab Screenshot 10](screenshots/soc-lab-10.png)
 
 ### Brute Force Attack
 
@@ -228,6 +230,7 @@ Used Hydra to simulate SSH brute-force attempts.
 ```bash
 hydra -l admin -P rockyou.txt ssh://<windows-server-ip>
 ```
+![SOC Lab Screenshot 11](screenshots/soc-lab-11.png)
 
 ## Detection & Investigation
 
@@ -333,12 +336,6 @@ Suspicious activity was detected originating from an internal Parrot OS machine.
 ![SOC Lab Screenshot 07](screenshots/soc-lab-07.png)
 
 ![SOC Lab Screenshot 08](screenshots/soc-lab-08.png)
-
-![SOC Lab Screenshot 09](screenshots/soc-lab-09.png)
-
-![SOC Lab Screenshot 10](screenshots/soc-lab-10.png)
-
-![SOC Lab Screenshot 11](screenshots/soc-lab-11.png)
 
 ![SOC Lab Screenshot 12](screenshots/soc-lab-12.png)
 
