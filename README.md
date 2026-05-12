@@ -344,6 +344,9 @@ Suspicious activity was detected originating from an internal Parrot OS machine.
 
 ![SOC Lab Screenshot 15](screenshots/soc-lab-15.png)
 
+## DashBoard
+![SOC Lab Screenshot 0](screenshots/soc-lab-01.png)
+
 ## Future Improvements
 
 - Integrate Sysmon
